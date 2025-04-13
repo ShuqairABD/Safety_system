@@ -1,0 +1,12 @@
+opencv-python
+ultralytics
+deep-sort-realtime
+python-telegram-bot
+gradio
+pandas
+numpy
+pytz
+openpyxl
+
+nest_asyncio
+openvino
